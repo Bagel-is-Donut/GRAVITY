@@ -5,7 +5,7 @@ YouTube Link: https://youtu.be/45XFh8-XzlE
 Fun game simulating gravity. An excursion in space. Multi-player ranking.
 
 Run File: “zmain.py” 
-#Make sure you run on PYZO and you've installed PYGAME. 
+# Make sure you run on PYZO and you've installed PYGAME. 
 
 CITATIONS & CREDITS:
 1	Cite me along with this site if you need to use the CODES or IMAGES.
