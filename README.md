@@ -1,8 +1,7 @@
 # GRAVITY
-CMU 15-112 term project GRAVITY. Selected as one of the 7 Showcase Projects in 2018 Spring. 
-YouTube Link: https://youtu.be/45XFh8-XzlE
+CMU 15-112 term project GRAVITY. Selected as one of the 7 Showcase Projects in 2018 Spring. Fun game simulating gravity. An excursion in space. Multi-player ranking.
 
-Fun game simulating gravity. An excursion in space. Multi-player ranking.
+YouTube Link: https://youtu.be/45XFh8-XzlE
 
 Run File: “zmain.py” 
 
